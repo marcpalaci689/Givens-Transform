@@ -14,4 +14,5 @@ a Stiefel manifold into an unconstrained optimization. Givens Transforms have re
 been exploited for orthonormal inference (https://arxiv.org/pdf/1710.09443.pdf).
 
 I have included a jupyter notebook tutorial going over 2 examples so as to see how
-to use the script.
+to use the script. The notebook goes over the 2 test scripts pca_1D_test.py and
+pca_2D_test.py.
